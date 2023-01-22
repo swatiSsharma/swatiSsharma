@@ -1,5 +1,7 @@
 ## <p align="center">Hey there👋I'm Swati</p>
 
+<p align="center">A passisonate Data Engineer Lead </p>
+
 <a href="www.linkedin.com/in/swatisharma94/">
   <img align="left" alt="Swati's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -8,7 +10,9 @@
 
 <br />
 
-Hello, I'm **Swati**, a passionate programmer with an interest in Analytics, Data & Software Engineering. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that I build.
+Hello, I'm **Swati**,
+<br />
+A self-taught programmer with an interest in **Analytics, Data & Software Engineering**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that I build.
 
 **Languages and Tools:**  
 
