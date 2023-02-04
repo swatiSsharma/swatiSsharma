@@ -9,9 +9,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=swatiSsharma)
 
 <br />
-
-Hello, I'm **Swati**,
-<br />
 A self-taught programmer with an interest in **Analytics, Data & Software Engineering**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that I build.
 
 **Languages and Tools:**  
