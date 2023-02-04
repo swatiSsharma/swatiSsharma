@@ -1,6 +1,6 @@
 ## <p align="center">Hey there👋I'm Swati</p>
 
-<p align="center">A passisonate Data Engineer Lead </p>
+<p align="center">Data Enthusiastic and a Passisonate Data Engineer</p>
 
 <a href="www.linkedin.com/in/swatisharma94/">
   <img align="left" alt="Swati's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
