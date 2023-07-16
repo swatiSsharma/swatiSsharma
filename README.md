@@ -3,10 +3,10 @@
 <p align="center">Data Enthusiastic and a Passisonate Data Engineer</p>
 
 <a href="www.linkedin.com/in/swatisharma94/">
-  <img align="left" alt="Swati's LinkedIN Profile" width="22px" src="https://www.linkedin.com/in/swatisharma94/" />
+  <img align="left" alt="Swati's LinkedIn Profile" width="22px" src="https://www.linkedin.com/in/swatisharma94/" />
 </a>
 <BR>
-<BR>A self-taught programmer with an interest in **Analytics, Data & Software Engineering**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that I build.
+<BR>A self-taught programmer with an interest in <B>Analytics, Data & Software Engineering</B>. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that I build.
 
 ### **Languages and Tools:**  
 
@@ -23,4 +23,6 @@
 
 - 💬 Ask me about ***Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical**
 
-- 📫 How to reach me **swatisharma156165@gmail.com**
+- 📫 How to reach me
+-          Mail --> <B>swatisharma156165@gmail.com</B>
+-      Linkedin --> <B>https://www.linkedin.com/in/swatisharma94/</B>
