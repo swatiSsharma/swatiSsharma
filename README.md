@@ -20,6 +20,6 @@
 
 - 💬 Ask me about ***Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical**
 
-- 📫 How to reach me
-      Mail --> <B>swatisharma156165@gmail.com</B>
+- 📫 How to reach me:  
+      Mail --> <B>swatisharma156165@gmail.com</B>  
       Linkedin --> <B>https://www.linkedin.com/in/swatisharma94/</B>
